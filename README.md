@@ -37,7 +37,7 @@ More Info?
 
 ## 🎵 Spotify status
 I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the song)**
+**(If Something is not playing, it just shows static info of the previous played song)**
 
 <p align="center">
 <a href="https://readme-new.vercel.app/api/song/?opened">
