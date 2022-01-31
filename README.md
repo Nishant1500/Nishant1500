@@ -1,7 +1,20 @@
 # Hello There!
-I am nish, a beginner developer
+I am nish. I am a beginner developer, here some info about me
+- 👀 I’m interested in [Java](https://www.oracle.com/in/java/)
+- 💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!
+#### 📫 How to reach me
+- Discord: [`Nishant1500#9735`](https://discord.com/users/908563963392958464)
+- Email: [`Click To Mail!`](mailto:nishant.behera0607@gmail.com) or copy **`nishant.behera0607@gmail.com`**
+- Or Contact me in this discord server: [Bee Hub!](https://discord.com/invite/xckZRGyDrM)
 
-[<img alt="Spotify" width="26px" height="26px" src="./assets/Spotify.svg"/>](https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1)
+[![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
+
+---
+<p align="center">
+<a href="https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1">
+<img alt="Spotify: Nishant1500" width="26px" height="26px" src="./assets/Spotify.svg"/>
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -15,9 +28,7 @@ I am nish, a beginner developer
 
 More Info?
 
----
-
-#### There We Go
+## GitHub Statistics
 ![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)
 <br>
 <img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
@@ -25,7 +36,10 @@ More Info?
 
 ## 🎵 Spotify status
 I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
+**(If Something is not playing, it just shows static info of the song)**
 
+<p align="center">
 <a href="https://readme-new.vercel.app/api/song/?opened">
   <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
+  </p>
