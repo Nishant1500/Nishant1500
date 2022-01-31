@@ -24,7 +24,8 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
 
 ## 🎵 Spotify status
+I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+<a href="https://readme-new.vercel.app/api/song/?opened">
   <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
