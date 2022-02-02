@@ -9,6 +9,8 @@ I am nish. I am a beginner developer, here some info about me
 - Or Contact me in this discord server: [Bee Hub!](https://discord.com/invite/xckZRGyDrM)
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
+ 
+> You can know if i am active on Discord, by looking at my GitHub status. It updates when i become online on discord and when i am sleeping.
 
 ---
 <p align="center">
