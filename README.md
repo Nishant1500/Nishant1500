@@ -1,4 +1,5 @@
 # Hello There!
+
 I am nish. I am a beginner developer, here some info about me
 - 🙃 Pronouns: He/Him/They/Them
 - 👀 I’m interested in [Java](https://www.oracle.com/in/java/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
@@ -17,7 +18,21 @@ I am nish. I am a beginner developer, here some info about me
 <a href="https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1">
 <img alt="Spotify: Nishant1500" width="26px" height="26px" src="./assets/Spotify.svg"/>
 </a>
+
+```diff
+@@        Extra Contacts        @@
+```
+
 </p>
+
+---
+<p align="center">
+<a href="https://github.com/Nishant1500">
+<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+</a>
+</p>
+
+Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 <h3 align="left">Languages and Tools:</h3>
 
