@@ -25,6 +25,7 @@ I am nish. I am a beginner developer, here some info about me
 
 </p>
 
+
 ---
 <p align="center">
 <a href="https://github.com/Nishant1500">
@@ -32,7 +33,7 @@ I am nish. I am a beginner developer, here some info about me
 </a>
 </p>
 
-Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  (i'm the one who listed it :p)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -47,12 +48,11 @@ Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com
 More Info?
 
 ## GitHub Statistics
-[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
-<br>
-<a href="https://github.com/Nishant1500?tab=overview">
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
-</a>
+
+| ✨ | 📚 |
+| --------------- | --------------- |
+| [![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview) | <a href="https://github.com/Nishant1500?tab=overview">
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/> </a> <a href="https://github.com/Nishant1500?tab=overview"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></a> | <a href="https://app.daily.dev/Nishant1500"><img src="https://api.daily.dev/devcards/c762ce3cc3414b91abd6164b27c8006b.png?r=yva" width="400" alt="Nishant Behera's Dev Card"/></a> |
 
 ## 🎵 Spotify status
 I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
