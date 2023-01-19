@@ -7,7 +7,7 @@ I am nish. I am a beginner developer, here some info about me
 #### 📫 How to reach me
 - Discord: [`Nishant1500#4796`](https://discord.com/users/908563963392958464)
 - Email: [`Click To Mail!`](mailto:nishant.behera0607@gmail.com) or copy **`nishant.behera0607@gmail.com`**
-- Or Contact me in this discord server: [Bee Hub!](https://discord.com/invite/xckZRGyDrM)
+- Or Contact me in this discord server: [Pixelated Devs](https://discord.gg/SVAF2Ju7Jw)
 
 [![discord](https://discordapp.com/api/guilds/1058710908601368616/embed.png?style=banner2)](https://discord.gg/SVAF2Ju7Jw)
  
