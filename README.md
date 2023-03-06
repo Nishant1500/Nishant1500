@@ -1,7 +1,7 @@
 # Hello There!
 
 I am nish. I am a beginner developer, here some info about me
-- 🙃 Pronouns: He/Him/They/Them
+- 🙃 Pronouns: He/Him
 - 👀 I’m interested in [Java](https://www.oracle.com/in/java/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
 - 💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!
 #### 📫 How to reach me
